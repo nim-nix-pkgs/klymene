@@ -11,7 +11,6 @@
   inputs.src-klymene-main.ref   = "refs/heads/main";
   inputs.src-klymene-main.owner = "georgelemon";
   inputs.src-klymene-main.repo  = "clymene";
-  inputs.src-klymene-main.dir   = "";
   inputs.src-klymene-main.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
