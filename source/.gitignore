@@ -1,0 +1,14 @@
+*
+!.gitignore
+!*.nim
+/*.nim
+!*.nimble
+!*.klymene
+!*.md
+!nim.cfg
+!README*
+!LICENSE
+!/src
+!/src/klymene
+!/test
+!/examples
